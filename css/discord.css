@@ -1,4 +1,5 @@
 .text1{
+    text-align: center;
     display: flex;
     margin-left: 450px;
     margin-top: 250px;
@@ -13,7 +14,9 @@
 
 .text{
     display: flex;
-    margin-left: 500px;
+    font-size: 50px;
+
+    margin-left: 400px;
     color: aliceblue;
 }
 
