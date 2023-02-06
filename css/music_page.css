@@ -1,0 +1,32 @@
+a.lien {
+    color: transparent;
+}
+
+.sound_part {
+    margin-top: 3em;
+}
+
+.txt1 {
+    font-size: 33px;
+    color: #fff;
+    margin-left: 14em;
+}
+
+.logo_music {
+    width: 2em;
+}
+
+.fichier_audio {
+    display: flex;
+    place-content: center;
+    gap: 1em;
+    margin-top: 2em;
+    align-items: center;
+}
+
+.mdp_part {
+    display: flex;
+    margin-top: 2em;
+    place-content: center;
+    align-items: center;
+}
