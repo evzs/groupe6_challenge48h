@@ -3,7 +3,7 @@
     width: 100%;
     display: flex;
     justify-content: center;
-    padding-top: 10%;
+    padding-top: 5%;
 }
 
 .icon {
@@ -34,4 +34,8 @@
     width: 15%;
     height: 14%;
     border-radius: 4vh;
+}
+.input {
+    margin-top: 4%;
+    text-align: center;
 }
