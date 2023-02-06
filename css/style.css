@@ -1,7 +1,9 @@
-.ecriture {
-    color: blue;
-    background-color: yellow;
-    border: 1px solid black;
+.ecritureHaut {
+  color: rgb(255, 255, 255);
+  background-color: rgb(255, 255, 255);
+  font-size: 31,1px;
+  font-family: 'Roboto', sans-serif;
+  
   }
   
 p  {
