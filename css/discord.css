@@ -1,0 +1,30 @@
+.text1{
+    text-align: center;
+    display: flex;
+    margin-left: 450px;
+    margin-top: 250px;
+    color: aliceblue;
+}
+
+.text2{
+    display: flex;
+    margin-left: 380px;
+    color: aliceblue;
+}
+
+.text{
+    display: flex;
+    font-size: 50px;
+
+    margin-left: 400px;
+    color: aliceblue;
+}
+
+.backgroundd{
+    background-color: black;
+}
+
+.discordPhoto{
+    height: 30px;
+    margin-left: 630px;
+}
