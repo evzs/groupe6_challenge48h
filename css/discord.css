@@ -1,7 +1,7 @@
 .text1{
     text-align: center;
     display: flex;
-    margin-left: 450px;
+    margin-left: 440px;
     margin-top: 250px;
     color: aliceblue;
 }
@@ -15,8 +15,7 @@
 .text{
     display: flex;
     font-size: 50px;
-
-    margin-left: 400px;
+    margin-left: 420px;
     color: aliceblue;
 }
 
@@ -26,5 +25,11 @@
 
 .discordPhoto{
     height: 30px;
-    margin-left: 630px;
+    margin-left: 640px;
+}
+
+.code{
+    height: 100px;
+    width: 350px;
+    margin-left: 500px;
 }
