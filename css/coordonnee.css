@@ -1,0 +1,37 @@
+
+.background {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-top: 10%;
+}
+
+.icon {
+    width: 30%;
+    margin-left: 35%;
+}
+
+.container {
+    margin-top: 3em;
+    display: flex;
+    place-content: center;
+    gap: 3em;
+}
+
+.mon1 {
+    width: 15%;
+    height: 15%;
+    border-radius: 4vh;
+}
+
+.mon2 {
+    width: 15%;
+    height: 15%;
+    border-radius: 4vh;
+}
+
+.mon3 {
+    width: 15%;
+    height: 14%;
+    border-radius: 4vh;
+}
