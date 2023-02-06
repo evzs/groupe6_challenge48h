@@ -5,6 +5,7 @@
 
 body {
     background-color: #000000;
+    margin-top: 1em;
     color: #ffffff;
     font-family: 'upheavt', sans-serif;
     font-size: 50px;
@@ -19,7 +20,8 @@ body {
 }
 
 .starter {
-    display: flex;
+    margin-top: 2em;
+    display: grid;
     place-content: center;
 }
 
@@ -31,4 +33,8 @@ body {
     display: flex;
     gap: 1em;
     align-items: center;
+}
+
+.fleche {
+    place-self: center;
 }
