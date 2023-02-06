@@ -1,0 +1,34 @@
+@font-face {
+    font-family: 'upheavt';
+    src: url('upheavtt.ttf');
+}
+
+body {
+    background-color: #000000;
+    color: #ffffff;
+    font-family: 'upheavt', sans-serif;
+    font-size: 50px;
+}
+
+#header {
+    display: flex;
+    place-content: center;
+    gap: 7em;
+    margin: 0 1em;
+    align-items: center;
+}
+
+.starter {
+    display: flex;
+    place-content: center;
+}
+
+.logo {
+    width: 9vh;
+}
+
+.logo_groupe {
+    display: flex;
+    gap: 1em;
+    align-items: center;
+}
