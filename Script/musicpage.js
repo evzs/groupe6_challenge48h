@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
         e.preventDefault();
         const password = loginForm.password.value;
     
-        if (password === "4982esenonuxlsarrelersneseurerstntuerturerilradereesuxesesdeueot") {
+        if (password === "3884esenonuxlsarrelersneseurerstntuerturerilradereesuxesesdeueot") {
             alert("You have successfully logged in.");
             window.location.href = "discord.html";
         } else {
