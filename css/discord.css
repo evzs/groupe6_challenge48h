@@ -1,22 +1,26 @@
 .text1{
     text-align: center;
     display: flex;
-    margin-left: 440px;
-    margin-top: 250px;
+    margin-left: 250px;
+    margin-top: 50px;
     color: aliceblue;
+    font-size: 50px;
 }
 
 .text2{
     display: flex;
-    margin-left: 380px;
+    margin-left: 260px;
     color: aliceblue;
+    font-size: 40px;
+    text-align: center;
 }
 
 .text{
     display: flex;
     font-size: 50px;
-    margin-left: 420px;
+    margin-left: 365px;
     color: aliceblue;
+    text-align: center;
 }
 
 .backgroundd{
