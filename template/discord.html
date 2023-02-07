@@ -6,7 +6,8 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">   
     <link rel="stylesheet" type="text/css" href="../css/discord.css"> 
     <link rel="stylesheet" href="../style/index.css">
-    <script defer src="../templateMdp2/discordMdp.js"></script>
+    <script src="../main.js"></script>
+    <script src="../Script/discordMdp.js"></script>
     <title>Team6</title>
   </head>
   <body class="backgroundd">
@@ -28,10 +29,10 @@
             <img class="discordPhoto" src="../img/Discord.png" href="https://discord.gg/AkUx3mxA"  alt="Discord">
      <div>
         <h1 class="text" >Entrez le mot de passe :</h1>
-        <form >
-          <input type="password" name="password" id="password-field" class="login-form-field" placeholder="Password">
-          <input type="submit" value="Login" id="login-form-submit" hidden="true">
-        </form>
+        <form id="login-form">
+          <input type="password" name="password" id="password-field" class="login-form-field" placeholder="Password" maxlength="500">
+          <input type="submit" value="Login" id="login-form-submit">
+      </form>
 
     </div>
 </div>

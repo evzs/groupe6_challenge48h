@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         if (password === "test") {
             alert("You have successfully logged in.");
-            window.location.href = "index.html";
+            window.location.href = "codeimage.html";
         } else {
             loginErrorMsg.style.opacity = 1;
         }
