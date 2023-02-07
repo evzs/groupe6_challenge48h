@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
         e.preventDefault();
         const password = loginForm.password.value;
     
-        if (password === "test") {
+        if (password === "walrus") {
             alert("Trouvé !");
             window.location.href = "w.html";
         } else {

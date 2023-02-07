@@ -1,19 +1,19 @@
-// document.addEventListener("keydown", function (event) {
+document.addEventListener("keydown", function (event) {
 
-//     if (event.ctrlKey) {
+    if (event.ctrlKey) {
 
-//         event.preventDefault();
+        event.preventDefault();
 
-//     }
+    }
 
-//     if (event.keyCode == 123) {
+    if (event.keyCode == 123) {
 
-//         event.preventDefault();
+        event.preventDefault();
 
-//     }
+    }
 
-// });
+});
 
-// document.addEventListener('contextmenu',
-//     event => event.preventDefault()
-// );
+document.addEventListener('contextmenu',
+    event => event.preventDefault()
+);
