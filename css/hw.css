@@ -1,0 +1,20 @@
+.miaou {
+    display: none;
+}
+
+.maiou img {
+    width: 2px;
+    height: 2px;
+    object-fit: cover;
+    opacity: 1%;
+}
+
+.maiou a:hover {
+    cursor: default;
+}
+
+
+.hx {
+    height: 100vh;
+    background-color: linear-gradient(90deg, #736C, #7277, #7561);
+}
