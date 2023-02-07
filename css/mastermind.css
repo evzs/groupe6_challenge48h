@@ -1,0 +1,13 @@
+body {
+    background-image: url("../img/background2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.titre1 {
+    color: #64CFF1;
+}
+
+.titre2 {
+    color: #FE60B3;
+}

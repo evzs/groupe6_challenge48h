@@ -1,3 +1,9 @@
+body {
+    background-image: url("../img/background2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 a.lien {
     color: transparent;
 }
