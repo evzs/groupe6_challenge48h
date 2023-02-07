@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
         const password = loginForm.password.value;
 
         if (password === "test") {
-            alert("You have successfully logged in.");
+            alert("Trouvé !");
             window.location.href = "codeimage.html";
         } else {
             loginErrorMsg.style.opacity = 1;
