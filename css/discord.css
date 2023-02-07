@@ -1,7 +1,7 @@
 .text1{
     text-align: center;
     display: flex;
-    margin-left: 26%;
+    margin-left: 25%;
     margin-top: 5%;
     color: aliceblue;
     font-size: 50px;
@@ -9,7 +9,7 @@
 
 .text2{
     display: flex;
-    margin-left: 27%;
+    margin-left: 26%;
     color: aliceblue;
     font-size: 40px;
     text-align: center;
@@ -31,7 +31,7 @@
 .discordPhoto{
     margin-top: 3%;
     height: 30px;
-    margin-left: 47%;
+    margin-left: 46%;
 }
 
 .code{
