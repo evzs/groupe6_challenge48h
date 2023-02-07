@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
         e.preventDefault();
         const password = loginForm.password.value;
 
-        if (password === "test") {
+        if (password === "12020920") {
             alert("Trouvé !");
             window.location.href = "codeimage.html";
         } else {
