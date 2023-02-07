@@ -7,15 +7,15 @@ body {
 .text1{
     text-align: center;
     display: flex;
-    margin-left: 250px;
-    margin-top: 50px;
+    margin-left: 26%;
+    margin-top: 5%;
     color: aliceblue;
     font-size: 50px;
 }
 
 .text2{
     display: flex;
-    margin-left: 260px;
+    margin-left: 27%;
     color: aliceblue;
     font-size: 40px;
     text-align: center;
@@ -24,9 +24,10 @@ body {
 .text{
     display: flex;
     font-size: 50px;
-    margin-left: 365px;
+    margin-left: 32%;
     color: aliceblue;
     text-align: center;
+    margin-top: 3%;
 }
 
 .backgroundd{
@@ -34,12 +35,13 @@ body {
 }
 
 .discordPhoto{
+    margin-top: 3%;
     height: 30px;
-    margin-left: 640px;
+    margin-left: 47%;
 }
 
 .code{
     height: 100px;
     width: 350px;
-    margin-left: 500px;
+    margin-left: 38%;
 }
