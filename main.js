@@ -1,29 +1,19 @@
-document.addEventListener("keydown", function (event) {
+// document.addEventListener("keydown", function (event) {
 
-    if (event.ctrlKey) {
+//     if (event.ctrlKey) {
 
-        event.preventDefault();
+//         event.preventDefault();
 
-    }
+//     }
 
-    if (event.keyCode == 123) {
+//     if (event.keyCode == 123) {
 
-        event.preventDefault();
+//         event.preventDefault();
 
-    }
+//     }
 
-});
+// });
 
-document.addEventListener('contextmenu',
-    event => event.preventDefault()
-);
-
-function op() {
-    var field2 = document.getElementById("input-field2").value;
-    if (field2 === "test")
-        document.location.href = "/index.html"
-
-    else {
-        alert("invaild information")
-    }
-}  
+// document.addEventListener('contextmenu',
+//     event => event.preventDefault()
+// );

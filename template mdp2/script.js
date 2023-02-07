@@ -5,7 +5,7 @@ const loginErrorMsg = document.getElementById("login-error-msg");
 loginButton.addEventListener("click", (e) => {
     e.preventDefault();
     const password = loginForm.password.value;
-
+    // esenonuxlsarrelersneseurerstntuerturerilradereesuxesesdeueot
     if (password === "test") {
         alert("You have successfully logged in.");
         window.location.href = "next.html";
