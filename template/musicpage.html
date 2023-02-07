@@ -6,6 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="../style/index.css">
     <link rel="stylesheet" href="../css/music_page.css">
+    <script src="../main.js"></script>
+    <script src="../Script/musicpage.js"></script>
 </head>
 <body>
 <div id="header">
@@ -24,15 +26,16 @@
             <img class="logo_music" src="../img/logo_music.png" alt="Télécharger le fichier audio">
         </a>
         <img src="../img/cross.png">
-        <a class ="lien" href="../audio/dddd" download>
+        <a class ="lien" href="h.html">
             <img class="logo_music" src="../img/logo_music.png" alt="Télécharger le fichier audio">
         </a>
     </div>
 </div>
 
-<div class ="mdp_part">
-    <input class="input" type="text" value="" style="background-color: white;">
-</div>
+<form id="login-form">
+    <input type="password" name="password" id="password-field" class="login-form-field" placeholder="Password" maxlength="500">
+    <input type="submit" value="Login" id="submitButton">
+</form>
 
 </body>
 </html>

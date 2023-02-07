@@ -7,9 +7,9 @@ document.addEventListener("DOMContentLoaded", () => {
         e.preventDefault();
         const password = loginForm.password.value;
     
-        if (password === "test") {
+        if (password === "yertfygj") {
             alert("Trouvé !");
-            window.location.href = "w.html";
+            window.location.href = "coordonnee.html";
         } else {
             loginErrorMsg.style.opacity = 1;
         }

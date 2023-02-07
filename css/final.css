@@ -1,0 +1,11 @@
+
+.final {
+    display: grid;
+    place-items: center;
+    margin-top: 2em;
+}
+
+.fina2 {
+    margin-top: 2%;
+    width: 95%;
+}
