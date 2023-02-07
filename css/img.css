@@ -1,0 +1,41 @@
+
+.background {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-top: 5%;
+}
+
+.container {
+    margin-top: 1em;
+    display: flex;
+    place-content: center;
+    gap: 3em;
+}
+
+.txt {
+    text-align: center;
+    margin-top: 5%;
+}
+
+.mon1 {
+    width: 4.8em;
+    height: 5em;
+    margin-right: 15%;
+    margin-top: 8%;
+}
+
+.mon2 {
+    width: 7m;
+    height: 9em;
+    border-radius: 1rem;
+}
+
+.mon3 {
+    filter: invert(100%);
+    width: 4.8em; 
+    height: 5em;
+    margin-top: 10%;
+    margin-left: 15%;
+}
+
